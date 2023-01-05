@@ -1,0 +1,6 @@
+G:/Doc_and_Study/OpenGLCourse/CODE/001Window/out/build/x64-Debug/CMakeFiles/Window.dir
+G:/Doc_and_Study/OpenGLCourse/CODE/001Window/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+G:/Doc_and_Study/OpenGLCourse/CODE/001Window/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+G:/Doc_and_Study/OpenGLCourse/CODE/001Window/out/build/x64-Debug/application/CMakeFiles/app_lib.dir
+G:/Doc_and_Study/OpenGLCourse/CODE/001Window/out/build/x64-Debug/application/CMakeFiles/edit_cache.dir
+G:/Doc_and_Study/OpenGLCourse/CODE/001Window/out/build/x64-Debug/application/CMakeFiles/rebuild_cache.dir

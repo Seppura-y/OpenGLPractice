@@ -1,0 +1,5 @@
+# ninja log v5
+2	1435	6945896293084517	CMakeFiles/Window.dir/main.cpp.obj	a4ed409e1cd52420
+6	1452	6945896293254512	application/CMakeFiles/app_lib.dir/application.cpp.obj	6af7460cea74eea6
+1452	1711	6945896294164508	application/app_lib.lib	86b927e7bd71d334
+1711	2441	6945896302142990	Window.exe	43f1003b0dccd3c1
