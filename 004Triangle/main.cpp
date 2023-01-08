@@ -50,6 +50,5 @@ int CALLBACK WinMain(
 		render();
 		app->show();
 	}
-
 	return 0;
 }
